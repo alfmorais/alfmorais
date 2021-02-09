@@ -21,4 +21,8 @@ Here are some ideas to get you started:
 
 #### - 📫 Para saber mais sobre o minha trajetória profissional ou Entrar em contato comigo, aqui está meu [LinkedIn](https://www.linkedin.com/in/alfredomneto/)!
 
+[![Alfredo GitHub Statistic](https://github-readme-stats.vercel.app/api?username=alfmorais)](https://github.com/alfmorais/alfmorais)  
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alfmorais)](https://github.com/alfmorais/alfmorais)
+
 #### Grande Abraço
