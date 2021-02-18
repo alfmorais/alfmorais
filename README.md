@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 #### - 🔭 Atualmente estou trabalhando em projetos para enriquecer meu <b>Portfólio</b>, vamos junto _inovar_ em algum projeto? 
 
-#### - 🌱 Estou estudando programação com foco em <b>Ciências de Dados</b> e <b>Desenvolvimento Web</b>.
+#### - 🌱 Estou estudando programação com foco em <b>Desenvolvimento de Softwares | Web e/ou Ciência de Dados</b>.
 
 #### - 📫 Para saber mais sobre o minha trajetória profissional ou Entrar em contato comigo, aqui está meu [LinkedIn](https://www.linkedin.com/in/alfredomneto/)!
 
