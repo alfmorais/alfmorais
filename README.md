@@ -1,6 +1,6 @@
 # Olá, meu nome é Alfredo de Morais 👋
 
-Sou Engenheiro de Controle e Automação com mais de 10 anos de experiência na indústria. Entretanto no ano de 2020 comecei a me aventurar na área de <B>PROGRAMAÇÃO PYTHON</B>. Decidir mudar o rumo da minha vida profissional ser protagonista do meu destino e fazer uma _transição de carreira_ para área de Desenvolvimento de Softwares & Web. 
+Sou Engenheiro de Controle e Automação com mais de 10 anos de experiência na indústria. Entretanto no ano de 2020 comecei a me aventurar na área de <B>PROGRAMAÇÃO PYTHON</B>. Decidir mudar o rumo da minha vida profissional ser protagonista do meu destino e fazer uma _transição de carreira_ para área de <B>Desenvolvimento de Softwares & Web</B> utilizando a linguagem de programação _PYTHON_. 
 <!--
 **alfmorais/alfmorais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
