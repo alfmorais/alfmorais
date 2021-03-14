@@ -17,12 +17,15 @@ Here are some ideas to get you started:
 -->
 #### - 🔭 Atualmente estou trabalhando em projetos para enriquecer meu <b>Portfólio</b>, vamos junto _inovar_ em algum projeto? 
 
-#### - 🌱 Estou estudando programação com foco em <b>Desenvolvimento de Softwares | Web e/ou Ciência de Dados</b>.
+#### - 🌱 Estou estudando programação com foco em <b>Desenvolvimento de Softwares | Web</b>.
+1. Veja todo meu progresso no GitHub. 
 
-#### - 📫 Para saber mais sobre o minha trajetória profissional ou Entrar em contato comigo, aqui está meu [LinkedIn](https://www.linkedin.com/in/alfredomneto/)!
+&nbsp;[![Alfredo GitHub Statistic](https://github-readme-stats.vercel.app/api?username=alfmorais)](https://github.com/alfmorais/alfmorais) 
 
-[![Alfredo GitHub Statistic](https://github-readme-stats.vercel.app/api?username=alfmorais)](https://github.com/alfmorais/alfmorais)  
+2. Esses foram todos os meus estudos até momento. 
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alfmorais)](https://github.com/alfmorais/alfmorais)
+&nbsp;[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alfmorais)](https://github.com/alfmorais/alfmorais)
+
+#### - 📫 Para saber mais sobre o minha trajetória profissional ou entrar em contato comigo, aqui está meu [LinkedIn](https://www.linkedin.com/in/alfredomneto/)!
 
 #### Grande Abraço
