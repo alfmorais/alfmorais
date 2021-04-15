@@ -9,7 +9,9 @@ Sou Engenheiro de Controle e Automação com mais de 10 anos de experiência na 
 
 <hr />
 
-#### - 🔭 Atualmente estou trabalhando em projetos para enriquecer meu <b>Portfólio</b>, veja alguns projetos desenvolvidos ou em desenvolvimento:
+#### - 🔭 Atualmente estou trabalhando em projetos para enriquecer meu <b>Portfólio</b>. 
+
+<!-- veja alguns projetos desenvolvidos ou em desenvolvimento:
  
  - [ ] Portifolio de Projetos
  - [ ] Desenvolvimento de um Blog usando o Framework Django
@@ -18,6 +20,8 @@ Sou Engenheiro de Controle e Automação com mais de 10 anos de experiência na 
  - [ ] Construção de uma API
  - [ ] Scrip automático de API
  - [ ] Aplicação com Banco de Dados
+
+!-->
 
 #### - 🌱 Estou estudando programação com foco em <b>Desenvolvimento de Softwares | Web</b>.
 
