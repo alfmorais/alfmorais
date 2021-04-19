@@ -1,27 +1,11 @@
 # Olá, meu nome é Alfredo de Morais 👋
 
-~~~~python
-def transicao_de_carreira():
-    ...
-~~~~
 
 Sou Engenheiro de Controle e Automação com mais de 10 anos de experiência na indústria. Entretanto no ano de 2020 comecei a me aventurar na área de <B>PROGRAMAÇÃO PYTHON</B>. Decidir mudar o rumo da minha vida profissional ser protagonista do meu destino e fazer uma _transição de carreira_ para área de <B>Desenvolvimento de Softwares & Web</B> utilizando a linguagem de programação _PYTHON_  🐍
 
 <hr />
 
 #### - 🔭 Atualmente estou trabalhando em projetos para enriquecer meu <b>Portfólio</b>. 
-
-<!-- veja alguns projetos desenvolvidos ou em desenvolvimento:
- 
- - [ ] Portifolio de Projetos
- - [ ] Desenvolvimento de um Blog usando o Framework Django
- - [ ] Desenvolvimento de uma aplicação em Flask
- - [ ] API do Climatempo
- - [ ] Construção de uma API
- - [ ] Scrip automático de API
- - [ ] Aplicação com Banco de Dados
-
-!-->
 
 #### - 🌱 Estou estudando programação com foco em <b>Desenvolvimento de Softwares | Web</b>.
 
@@ -36,10 +20,5 @@ Sou Engenheiro de Controle e Automação com mais de 10 anos de experiência na 
 #### - 📫 Para saber mais sobre o minha trajetória profissional ou entrar em contato comigo, aqui está meu [LinkedIn](https://www.linkedin.com/in/alfredomneto/)!
 
 <hr />
-
-~~~~python
-    ...
-    return programador_python
-~~~~
 
 #### Grande Abraço
