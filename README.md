@@ -1,8 +1,6 @@
 # Seja Bem-Vindo 🚀
   
 
-<hr />
-
 - 👋 Olá, meu nome é Alfredo de Morais. Tenho 28 anos!
 - 🌱 Casado com Denise e pai do pequeno Joaquim Neto. 
 - 📌 Nascido e criado em Americana-São Paulo.
@@ -26,7 +24,7 @@
 
 &nbsp;[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alfmorais)](https://github.com/alfmorais/alfmorais)
 
-## - 📫 Para saber mais sobre o minha trajetória profissional ou entrar em contato comigo:
+## - 📫 Entre em contato comigo:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/alfredomneto)](https://www.linkedin.com/in/alfredomneto/)
   [![Gmail Badge](https://img.shields.io/badge/-alfredneto.1992@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alfredneto.1992@gmail.com)](mailto:alfredneto.1992@gmail.com)
