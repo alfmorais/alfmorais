@@ -1,13 +1,13 @@
 # Seja Bem-Vindo 🚀
   
 
-- 👋 Olá, meu nome é Alfredo de Morais. Tenho 28 anos!
-- 🌱 Casado com Denise e pai do pequeno Joaquim Neto. 
-- 📌 Nascido e criado em Americana-São Paulo.
-- 🎓 Formado em 2018 no curso de Engenharia de Controle e Automação pela Faculdade Anhanguera de SBO. 
-- :computer: Atualmente estou estudando para fazer uma _transição de carreira na área de Desenvolvimento Python_.
-- 🐍 Esse _GitHub_ vai ter bastante conteúdo sobre <strong>PYTHON, DJANGO e FLASK</strong>. 
-- 💼 Meu proximo objetivo profissional: _Desenvolvedor Python Backend Jr_. 
+#### - 👋 Olá, meu nome é Alfredo de Morais. Tenho 28 anos!
+#### - 🌱 Casado com Denise e pai do pequeno Joaquim Neto. 
+#### - 📌 Nascido e criado em Americana-São Paulo.
+#### - 🎓 Formado em 2018 no curso de Engenharia de Controle e Automação pela Faculdade Anhanguera de SBO. 
+#### - :computer: Atualmente estou estudando para fazer uma _transição de carreira na área de Desenvolvimento Python_.
+#### - 🐍 Esse _GitHub_ vai ter bastante conteúdo sobre <strong>PYTHON, DJANGO e FLASK</strong>. 
+#### - 💼 Meu proximo objetivo profissional: _Desenvolvedor Python Backend Jr_. 
 
 ## 📑 Projetos Desenvolvidos
 1. [Projeto de uma rede social com microframework Flask](https://github.com/alfmorais/basico_flask)
