@@ -15,7 +15,7 @@
 3. [Projeto de uma agenda de compromissos com framework Django](https://github.com/alfmorais/agenda_dio)
 
 ## ⚡ Habilidades em Desenvolvimento:
-![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=FFFFFF) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=HTML5&logoColor=FFFFFF) ![Django](https://img.shields.io/badge/-Django-092E20?&logo=Django&logoColor=FFFFFF) ![Pandas](https://img.shields.io/badge/-Pandas-150458?&logo=Pandas&logoColor=FFFFFF) ![Flask](https://img.shields.io/badge/-Flask-092E20?&logo=Flask&logoColor=FFFFFF)
+![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=FFFFFF) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=HTML5&logoColor=FFFFFF) ![Django](https://img.shields.io/badge/-Django-092E20?&logo=Django&logoColor=FFFFFF) ![Flask](https://img.shields.io/badge/-Flask-092E20?&logo=Flask&logoColor=FFFFFF)
 
 ## 📦 Banco de Dados:
 ![JSON](https://img.shields.io/badge/-JSON-181717?&logo=JSON&logoColor=FFFFFF) ![MySql](https://img.shields.io/badge/-MySql-003B57?&logo=MySQL&logoColor=FFFFFF)
