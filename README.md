@@ -9,10 +9,13 @@
 - 🐍 Esse _GitHub_ vai ter bastante conteúdo sobre <strong>PYTHON, DJANGO e FLASK</strong>. 
 - 💼 Meu proximo objetivo profissional: _Desenvolvedor Python Backend Jr_. 
 
+
+<!--
 ## 📑 Projetos Desenvolvidos
 1. [Projeto de uma rede social com microframework Flask](https://github.com/alfmorais/basico_flask)
 2. [Projeto de um blog com microframework Flask](https://github.com/alfmorais/blog)
 3. [Projeto de uma agenda de compromissos com framework Django](https://github.com/alfmorais/agenda_dio)
+-->
 
 ## ⚡ Habilidades em Desenvolvimento:
 ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=FFFFFF) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=HTML5&logoColor=FFFFFF) ![Django](https://img.shields.io/badge/-Django-092E20?&logo=Django&logoColor=FFFFFF) ![Flask](https://img.shields.io/badge/-Flask-092E20?&logo=Flask&logoColor=FFFFFF)
