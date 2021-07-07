@@ -1,7 +1,7 @@
 # Seja Bem-Vindo 🚀
   
 
-- 👋 Olá, meu nome é Alfredo de Morais. Tenho 28 anos!
+- 👋 Olá, meu nome é Alfredo de Morais.
 - 🌱 Casado com Denise e pai do pequeno Joaquim Neto. 
 - 📌 Nascido e criado em Americana-São Paulo.
 - 🎓 Formado em 2018 no curso de Engenharia de Controle e Automação pela Faculdade Anhanguera de SBO. 
