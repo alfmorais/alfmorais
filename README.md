@@ -5,6 +5,7 @@
 - 🌱 Casado com Denise e pai do pequeno Joaquim Neto. 
 - 📌 Nascido e criado em Americana-São Paulo.
 - 🎓 Formado em 2018 no curso de Engenharia de Controle e Automação pela Faculdade Anhanguera de SBO. 
+- 📑 Cursando Bacharelado em Tecnologia da Informação na Universidade Virtual do Estado de São Paulo (UNIVESP).
 - :computer: Atualmente estou estudando para fazer uma _transição de carreira na área de Desenvolvimento Python_.
 - 🐍 Esse _GitHub_ vai ter bastante conteúdo sobre <strong>PYTHON, DJANGO e FLASK</strong>. 
 - 💼 Meu proximo objetivo profissional: _Desenvolvedor Python Backend Jr_. 
