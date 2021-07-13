@@ -7,6 +7,7 @@
 - 🎓 Formado em 2018 no curso de Engenharia de Controle e Automação pela Faculdade Anhanguera de SBO. 
 - :computer: Cursando Bacharelado em Tecnologia da Informação na Universidade Virtual do Estado de São Paulo (UNIVESP).
 - 🐍 Esse _GitHub_ vai ter bastante conteúdo sobre <strong>PYTHON, DJANGO e FLASK</strong>. 
+- :book: Acesse meu [blog](https://blog-carreira-tech.herokuapp.com/) e veja toda minha trajetória p/ área de Desenvolvimento de Softwares.
 - 🚀 Meu proximo objetivo profissional: _Desenvolvedor Python Backend Jr_. 
 
 ## 📫 Entre em contato:
