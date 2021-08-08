@@ -30,8 +30,7 @@
 ![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
 
 ## 💡 Estatísticas Gerais:
 
@@ -85,4 +84,7 @@ video do youtube ensinando como criar um readme https://www.youtube.com/watch?v=
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/alfredomneto)](https://www.linkedin.com/in/alfredomneto/)
   [![Gmail Badge](https://img.shields.io/badge/-alfredneto.1992@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alfredneto.1992@gmail.com)](mailto:alfredneto.1992@gmail.com)
 - :book: Acesse meu [blog](https://blog-carreira-tech.herokuapp.com/) e veja toda minha trajetória p/ área de Desenvolvimento de Softwares.
+
+![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 -->
