@@ -1,6 +1,6 @@
 # Olá, meu nome é Alfredo de Morais 👋
 
-## Casado com Denise e pai do pequeno Joaquim Neto!
+## Casado com a Denise e pai do pequeno Joaquim Neto!
 
 - 📌 Americana-São Paulo (BRASIL)
 - 🌱 Atualmente estou estudando para fazer uma _transição de carreira na área de Desenvolvimento de Softwares_.
