@@ -1,44 +1,38 @@
 # Olá, meu nome é Alfredo de Morais 👋
 
-## Casado com a Denise e pai do pequeno Joaquim Neto!
 
 - 📌 Americana-São Paulo (BRASIL)
-- 🌱 Atualmente estou estudando para fazer uma _transição de carreira_ na área de **Desenvolvimento de Softwares**.
 - 🎓 Formado em 2018 no curso de Engenharia de Controle e Automação pela Faculdade Anhanguera de SBO. 
 - :computer: Cursando Bacharelado em Tecnologia da Informação na Universidade Virtual do Estado de São Paulo (UNIVESP).
-- 🐍 Esse _GitHub_ vai ter bastante conteúdo sobre <strong>PYTHON, DJANGO e FLASK</strong>. 
-- 🚀 Meu proximo objetivo profissional: _Desenvolvedor Python Backend Jr_. 
-
-## 📫 Entre em contato:
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/alfredomneto)](https://www.linkedin.com/in/alfredomneto/)
-  [![Gmail Badge](https://img.shields.io/badge/-alfredneto.1992@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alfredneto.1992@gmail.com)](mailto:alfredneto.1992@gmail.com)
+- 🚀 Meu proximo objetivo profissional: _Python Software Developer Pl_. 
 
 
-## ⚡ Habilidades em Desenvolvimento:
+## ⚡ Experiência
 ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![image](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![image](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 ![image](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
-![image](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+
+## ⚡ Habilidades em Desenvolvimento
+![image](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 
-## 💡 Estatísticas Gerais:
+## 💡 Estatísticas Gerais
 
 &nbsp;[![Alfredo GitHub Statistic](https://github-readme-stats.vercel.app/api?username=alfmorais)](https://github.com/alfmorais/alfmorais) 
 
 
+## 📫 Entre em contato:
 
-
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/alfredomneto)](https://www.linkedin.com/in/alfredomneto/)
+  [![Gmail Badge](https://img.shields.io/badge/-alfredneto.1992@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alfredneto.1992@gmail.com)](mailto:alfredneto.1992@gmail.com)
 
 
 ## Obrigado pela visita!!!
@@ -55,7 +49,9 @@
 
 11/07/2021
 video do youtube ensinando como criar um readme https://www.youtube.com/watch?v=ECuqb5Tv9qI&t=23s
-
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
