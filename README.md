@@ -4,7 +4,6 @@
 - 📌 Americana-São Paulo (BRASIL)
 - 🎓 Formado em 2018 no curso de Engenharia de Controle e Automação pela Faculdade Anhanguera de SBO. 
 - :computer: Cursando Bacharelado em Tecnologia da Informação na Universidade Virtual do Estado de São Paulo (UNIVESP).
-- 🚀 Meu proximo objetivo profissional: _Python Software Developer Pl_. 
 
 
 ## ⚡ Experiência
@@ -82,4 +81,6 @@ video do youtube ensinando como criar um readme https://www.youtube.com/watch?v=
 
 ![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+- 🚀 Meu proximo objetivo profissional: _Python Software Developer Pl_. 
+
 -->
