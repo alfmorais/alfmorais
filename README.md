@@ -23,11 +23,6 @@
 ![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 
-## 💡 Estatísticas Gerais
-
-&nbsp;[![Alfredo GitHub Statistic](https://github-readme-stats.vercel.app/api?username=alfmorais)](https://github.com/alfmorais/alfmorais) 
-
-
 ## 📫 Entre em contato:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/alfredomneto)](https://www.linkedin.com/in/alfredomneto/)
@@ -36,6 +31,12 @@
 
 
 <!-- Comentado o codigo
+
+## 💡 Estatísticas Gerais
+
+&nbsp;[![Alfredo GitHub Statistic](https://github-readme-stats.vercel.app/api?username=alfmorais)](https://github.com/alfmorais/alfmorais) 
+
+
 ## 📑 Projetos Desenvolvidos
 1. [Projeto de uma rede social com microframework Flask](https://github.com/alfmorais/basico_flask)
 2. [Projeto de um blog com microframework Flask](https://github.com/alfmorais/blog)
