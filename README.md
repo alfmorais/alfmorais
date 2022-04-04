@@ -4,6 +4,7 @@
 - 📌 Americana-São Paulo (BRASIL)
 - 🎓 Formado em 2018 no curso de Engenharia de Controle e Automação pela Faculdade Anhanguera de SBO. 
 - :computer: Cursando Bacharelado em Tecnologia da Informação na Universidade Virtual do Estado de São Paulo (UNIVESP).
+- 📖 Nas horas vagas compartilho um pouco de conhecimento, escrebendo no [Medium](https://medium.com/@alfredomorais).
 
 
 ## ⚡ Experiência
