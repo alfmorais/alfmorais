@@ -5,7 +5,7 @@
 - :computer: Desenvolvedor Python Backend na MaisTODOS.
 - 🎓 Formado em 2018 no curso de Engenharia de Controle e Automação pela Faculdade Anhanguera de SBO. 
 - 📚 Cursando Bacharelado em Tecnologia da Informação na Universidade Virtual do Estado de São Paulo (UNIVESP).
-- 📖 Nas horas vagas compartilho um pouco de conhecimento, escrevendo no [Medium](https://medium.com/@alfredomorais).
+- 📖 Nas horas vagas compartilho um pouco de conhecimento escrevendo no [Medium](https://medium.com/@alfredomorais).
 
 
 ## ⚡ Experiência
